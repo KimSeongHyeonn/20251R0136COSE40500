@@ -12,3 +12,8 @@
 
 컴퓨터 망(문화어: 콤퓨터 망) 또는 컴퓨터 네트워크(computer network)는 노드들이 자원을 공유할 수 있게 하는 디지털 전기통신망의 하나이다. 즉, 분산되어 있는 컴퓨터를 통신망으로 연결한 것을 말한다. 컴퓨터 네트워크에서 컴퓨팅 장치들은 노드 간 연결(데이터 링크)을 사용하여 서로에게 데이터를 교환한다. 이 데이터 링크들은 유선, 광케이블과 같은 케이블 매체, 또는 와이파이와 같은 무선 매체를 통해 확립된다.
 
+
+## Computer Architecture
+
+컴퓨터 구조(computer architecture)는 컴퓨터 과학에서 컴퓨터 시스템의 기능(functionality), 조직(organization), 구현(implementation)에 대한 법칙과 방법을 통칭한다. 또 다른 정의로는 컴퓨터 구조는 명령어 집합 구조(Instruction set architecture, ISA), 마이크로아키텍처(Microarchitecture) 설계, 논리 설계 및 구현을 의미한다.
+
