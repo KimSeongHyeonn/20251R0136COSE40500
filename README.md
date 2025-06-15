@@ -17,3 +17,8 @@
 
 컴퓨터 구조(computer architecture)는 컴퓨터 과학에서 컴퓨터 시스템의 기능(functionality), 조직(organization), 구현(implementation)에 대한 법칙과 방법을 통칭한다. 또 다른 정의로는 컴퓨터 구조는 명령어 집합 구조(Instruction set architecture, ISA), 마이크로아키텍처(Microarchitecture) 설계, 논리 설계 및 구현을 의미한다.
 
+
+## Operating System
+
+운영체제(運營 體制, 문화어: 조작 체계) 또는 오퍼레이팅 시스템(operating system, 약칭: OS)은 사용자의 하드웨어, 시스템 리소스를 제어하고 프로그램에 대한 일반적 서비스를 지원하는 시스템 소프트웨어이다. 컴퓨터 하드웨어를 관리할 뿐 아니라 응용 소프트웨어를 실행하기 위하여 하드웨어 추상화 플랫폼과 공통 시스템 서비스를 제공한다. 최근에는 가상화 기술의 발전에 힘입어 실제 하드웨어가 아닌 하이퍼바이저(가상 머신) 위에서 실행되기도 한다.
+
